@@ -119,17 +119,11 @@ An evolving REST API focused on backend architecture, PostgreSQL integration, au
 
 </div>
 
-## Current direction
+## Currently
 
-```javascript
-const talha = {
-  role: "Frontend Developer",
-  craft: ["Interactive UI", "Motion Design", "Responsive Experiences"],
-  buildingWith: ["React", "GSAP", "Three.js", "Tailwind CSS"],
-  expandingInto: ["FastAPI", "PostgreSQL", "SQLAlchemy", "Authentication"],
-  principle: "Make it useful. Make it fast. Make it memorable."
-};
-```
+- Building interactive interfaces with **React, GSAP, and Three.js**
+- Deepening my backend knowledge with **FastAPI, PostgreSQL, and SQLAlchemy**
+- Open to **frontend development opportunities** and creative web projects
 
 <div align="center">
 
