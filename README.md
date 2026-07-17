@@ -48,7 +48,7 @@ I'm a **Frontend Developer** from Lahore, Pakistan, focused on crafting responsi
 <tr>
 <td width="50%" valign="top">
 
-### 🍎 [Apple 3D Product Landing](https://github.com/talha-amr/apple-product-landing-3d)
+### [Apple 3D Product Landing](https://github.com/talha-amr/apple-product-landing-3d)
 
 An immersive product experience featuring interactive 3D visuals and cinematic motion.
 
@@ -57,7 +57,7 @@ An immersive product experience featuring interactive 3D visuals and cinematic m
 </td>
 <td width="50%" valign="top">
 
-### ✦ [Talha Amir Portfolio](https://github.com/talha-amr/TalhaAmir-Portfolio)
+### [Talha Amir Portfolio](https://github.com/talha-amr/TalhaAmir-Portfolio)
 
 A motion-driven personal portfolio designed around storytelling, fluid transitions, and visual polish.
 
@@ -68,7 +68,7 @@ A motion-driven personal portfolio designed around storytelling, fluid transitio
 <tr>
 <td width="50%" valign="top">
 
-### 🥂 [Velvet Pour](https://github.com/talha-amr/Velvet-Pour)
+### [Velvet Pour](https://github.com/talha-amr/Velvet-Pour)
 
 A premium beverage landing experience with scroll-based animation and expressive art direction.
 
@@ -79,7 +79,7 @@ A premium beverage landing experience with scroll-based animation and expressive
 </td>
 <td width="50%" valign="top">
 
-### 🏛️ [UniConnect](https://github.com/talha-amr/UniConnect-Cloud)
+### [UniConnect](https://github.com/talha-amr/UniConnect-Cloud)
 
 A complaint-management platform with role-based workflows, dashboards, notifications, and reporting.
 
@@ -90,7 +90,7 @@ A complaint-management platform with role-based workflows, dashboards, notificat
 <tr>
 <td width="50%" valign="top">
 
-### 📝 [iNoteBook](https://github.com/talha-amr/iNoteBook-frontend)
+### [iNoteBook](https://github.com/talha-amr/iNoteBook-frontend)
 
 A cloud notes application with authentication and complete note-management workflows.
 
@@ -101,7 +101,7 @@ A cloud notes application with authentication and complete note-management workf
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [FastAPI Blog API](https://github.com/talha-amr/fastapi-blog-api)
+### [FastAPI Blog API](https://github.com/talha-amr/fastapi-blog-api)
 
 An evolving REST API focused on backend architecture, PostgreSQL integration, authentication, and clean API design.
 
@@ -111,18 +111,9 @@ An evolving REST API focused on backend architecture, PostgreSQL integration, au
 </tr>
 </table>
 
-## GitHub pulse
+## Contribution activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=talha-amr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-amr&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=talha-amr&theme=transparent&hide_border=true&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-
-<br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=talha-amr&bg_color=0d1117&color=22d3ee&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 
