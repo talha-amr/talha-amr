@@ -1,16 +1,155 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**talha-amr/talha-amr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:22D3EE&height=210&section=header&text=Muhamad%20Talha%20Amir&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Full-Stack%20Explorer&descAlignY=56&descSize=17&animation=fadeIn" alt="Muhamad Talha Amir" />
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+polished%2C+interactive+web+experiences;React+%2B+GSAP+%2B+Three.js;Turning+ideas+into+fast%2C+fluid+interfaces;Exploring+FastAPI+%2B+PostgreSQL" alt="Typing introduction" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://github.com/talha-amr?tab=followers"><img src="https://img.shields.io/github/followers/talha-amr?style=for-the-badge&logo=github&label=Followers&color=0891b2" alt="Followers" /></a>
+<a href="https://github.com/talha-amr?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Work-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Work" /></a>
+<a href="https://github.com/talha-amr/TalhaAmir-Portfolio"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+</div>
+
+## About me
+
+I'm a **Frontend Developer** from Lahore, Pakistan, focused on crafting responsive interfaces with thoughtful motion, strong visual hierarchy, and clean user experiences.
+
+- I build with **React, Tailwind CSS, GSAP, Framer Motion, and Three.js**
+- I have hands-on experience delivering **internship, client, and full-stack projects**
+- I have built applications using both **MERN** and **SQL-based** architectures
+- I'm strengthening my backend skills with **FastAPI, PostgreSQL, SQLAlchemy, JWT, and REST APIs**
+- I care about motion, performance, responsiveness, and usability
+
+## Tech arsenal
+
+<div align="center">
+
+### Frontend & creative development
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,threejs,redux,vite&perline=9" alt="Frontend technologies" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=000000" alt="GSAP" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+
+### Backend, databases & tools
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,mysql,postgres,git,github,figma&perline=10" alt="Backend, databases and tools" />
+
+</div>
+
+## Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍎 [Apple 3D Product Landing](https://github.com/talha-amr/apple-product-landing-3d)
+
+An immersive product experience featuring interactive 3D visuals and cinematic motion.
+
+**React · Three.js · React Three Fiber · GSAP · Tailwind CSS**
+
+</td>
+<td width="50%" valign="top">
+
+### ✦ [Talha Amir Portfolio](https://github.com/talha-amr/TalhaAmir-Portfolio)
+
+A motion-driven personal portfolio designed around storytelling, fluid transitions, and visual polish.
+
+**React · GSAP · Framer Motion · Lenis · Tailwind CSS**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🥂 [Velvet Pour](https://github.com/talha-amr/Velvet-Pour)
+
+A premium beverage landing experience with scroll-based animation and expressive art direction.
+
+**React · GSAP · Tailwind CSS · Vite**
+
+[Live experience](https://velvet-pour-alpha-smoky.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ [UniConnect](https://github.com/talha-amr/UniConnect-Cloud)
+
+A complaint-management platform with role-based workflows, dashboards, notifications, and reporting.
+
+**React · Express · MySQL · Sequelize · JWT · Chart.js**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [iNoteBook](https://github.com/talha-amr/iNoteBook-frontend)
+
+A cloud notes application with authentication and complete note-management workflows.
+
+**React · Express · MongoDB · JWT · Material UI**
+
+[Live application](https://inotebook-atlas.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [FastAPI Blog API](https://github.com/talha-amr/fastapi-blog-api)
+
+An evolving REST API focused on backend architecture, PostgreSQL integration, authentication, and clean API design.
+
+**FastAPI · Python · PostgreSQL · SQLAlchemy · Pydantic**
+
+</td>
+</tr>
+</table>
+
+## GitHub pulse
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=talha-amr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-amr&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=talha-amr&theme=transparent&hide_border=true&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=talha-amr&bg_color=0d1117&color=22d3ee&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+
+</div>
+
+## Current direction
+
+```javascript
+const talha = {
+  role: "Frontend Developer",
+  craft: ["Interactive UI", "Motion Design", "Responsive Experiences"],
+  buildingWith: ["React", "GSAP", "Three.js", "Tailwind CSS"],
+  expandingInto: ["FastAPI", "PostgreSQL", "SQLAlchemy", "Authentication"],
+  principle: "Make it useful. Make it fast. Make it memorable."
+};
+```
+
+<div align="center">
+
+### Let's build something remarkable.
+
+<a href="https://github.com/talha-amr"><img src="https://img.shields.io/badge/GitHub-talha--amr-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=talha-amr&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:7C3AED&height=110&section=footer" alt="Footer" />
+
+</div>
