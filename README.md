@@ -16,31 +16,20 @@
 
 I'm a **Frontend Developer** from Lahore, Pakistan, focused on crafting responsive interfaces with thoughtful motion, strong visual hierarchy, and clean user experiences.
 
-- I build with **React, Tailwind CSS, GSAP, Framer Motion, and Three.js**
+- I build with **React, Tailwind CSS, GSAP, and Three.js**
 - I have hands-on experience delivering **internship, client, and full-stack projects**
 - I have built applications using both **MERN** and **SQL-based** architectures
 - I'm strengthening my backend skills with **FastAPI, PostgreSQL, SQLAlchemy, JWT, and REST APIs**
 - I care about motion, performance, responsiveness, and usability
 
-## Tech arsenal
+## Technical skills
 
-<div align="center">
-
-### Frontend & creative development
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,threejs,redux,vite&perline=9" alt="Frontend technologies" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=000000" alt="GSAP" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-
-### Backend, databases & tools
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,mysql,postgres,git,github,figma&perline=10" alt="Backend, databases and tools" />
-
-</div>
+| Area | Technologies |
+| --- | --- |
+| **Core frontend** | React, JavaScript, HTML, CSS, Tailwind CSS, GSAP, Vite |
+| **Worked with** | Three.js, Material UI, Node.js, Express, MongoDB, MySQL |
+| **Currently developing** | Python, FastAPI, PostgreSQL, SQLAlchemy |
+| **Tools** | Git, GitHub, Figma |
 
 ## Featured work
 
@@ -61,7 +50,7 @@ An immersive product experience featuring interactive 3D visuals and cinematic m
 
 A motion-driven personal portfolio designed around storytelling, fluid transitions, and visual polish.
 
-**React · GSAP · Framer Motion · Lenis · Tailwind CSS**
+**React · GSAP · Lenis · Tailwind CSS**
 
 </td>
 </tr>
@@ -130,10 +119,6 @@ An evolving REST API focused on backend architecture, PostgreSQL integration, au
 ### Let's build something remarkable.
 
 <a href="https://github.com/talha-amr"><img src="https://img.shields.io/badge/GitHub-talha--amr-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=talha-amr&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:7C3AED&height=110&section=footer" alt="Footer" />
 
