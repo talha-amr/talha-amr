@@ -24,12 +24,25 @@ I'm a **Frontend Developer** from Lahore, Pakistan, focused on crafting responsi
 
 ## Technical skills
 
-| Area | Technologies |
-| --- | --- |
-| **Core frontend** | React, JavaScript, HTML, CSS, Tailwind CSS, GSAP, Vite |
-| **Worked with** | Three.js, Material UI, Node.js, Express, MongoDB, MySQL |
-| **Currently developing** | Python, FastAPI, PostgreSQL, SQLAlchemy |
-| **Tools** | Git, GitHub, Figma |
+<div align="center">
+
+### Frontend & creative development
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,threejs&perline=7" alt="React, JavaScript, HTML, CSS, Tailwind CSS, Vite and Three.js" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=000000" alt="GSAP" />
+
+### Backend & databases
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,mysql,postgres&perline=7" alt="Python, FastAPI, Node.js, Express, MongoDB, MySQL and PostgreSQL" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma&perline=3" alt="Git, GitHub and Figma" />
+
+</div>
 
 ## Featured work
 
