@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:22D3EE&height=210&section=header&text=Muhammad%20Talha%20Amir&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Full-Stack%20Explorer&descAlignY=56&descSize=17&animation=fadeIn" alt="Muhammad Talha Amir" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:22D3EE&height=210&section=header&text=Muhamad%20Talha%20Amir&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Full-Stack%20Explorer&descAlignY=56&descSize=17&animation=fadeIn" alt="Muhamad Talha Amir" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+polished%2C+interactive+web+experiences;React+%2B+GSAP+%2B+Three.js;Turning+ideas+into+fast%2C+fluid+interfaces;Exploring+FastAPI+%2B+PostgreSQL" alt="Typing introduction" />
@@ -60,7 +60,7 @@ I'm a **Frontend Developer** from Lahore, Pakistan, focused on crafting responsi
 <tr>
 <td width="50%" valign="top">
 
-### [Apple 3D Product Landing](https://github.com/talha-amr/apple-product-landing-3d)
+### <a href="https://github.com/talha-amr/apple-product-landing-3d">Apple 3D Product Landing</a>
 
 An immersive product experience featuring interactive 3D visuals and cinematic motion.
 
@@ -70,7 +70,7 @@ An immersive product experience featuring interactive 3D visuals and cinematic m
 
 <td width="50%" valign="top">
 
-### [Talha Amir Portfolio](https://github.com/talha-amr/TalhaAmir-Portfolio)
+### <a href="https://github.com/talha-amr/TalhaAmir-Portfolio">Talha Amir Portfolio</a>
 
 A motion-driven personal portfolio designed around storytelling, fluid transitions, and visual polish.
 
@@ -82,19 +82,21 @@ A motion-driven personal portfolio designed around storytelling, fluid transitio
 <tr>
 <td width="50%" valign="top">
 
-### [Velvet Pour](https://github.com/talha-amr/Velvet-Pour)
+### <a href="https://github.com/talha-amr/Velvet-Pour">Velvet Pour</a>
 
 A premium beverage landing experience with scroll-based animation and expressive art direction.
 
 **React · GSAP · Tailwind CSS · Vite**
 
-[Live experience](https://velvet-pour-alpha-smoky.vercel.app/)
+<br/>
+
+<a href="https://velvet-pour-alpha-smoky.vercel.app/">Live experience</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### [UniConnect](https://github.com/talha-amr/UniConnect-Cloud)
+### <a href="https://github.com/talha-amr/UniConnect-Cloud">UniConnect</a>
 
 A complaint-management platform with role-based workflows, dashboards, notifications, and reporting.
 
@@ -106,19 +108,21 @@ A complaint-management platform with role-based workflows, dashboards, notificat
 <tr>
 <td width="50%" valign="top">
 
-### [iNoteBook](https://github.com/talha-amr/iNoteBook-frontend)
+### <a href="https://github.com/talha-amr/iNoteBook-frontend">iNoteBook</a>
 
 A cloud notes application with authentication and complete note-management workflows.
 
 **React · Express · MongoDB · JWT · Material UI**
 
-[Live application](https://inotebook-atlas.vercel.app/)
+<br/>
+
+<a href="https://inotebook-atlas.vercel.app/">Live application</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### [FastAPI Blog API](https://github.com/talha-amr/fastapi-blog-api)
+### <a href="https://github.com/talha-amr/fastapi-blog-api">FastAPI Blog API</a>
 
 An evolving REST API focused on backend architecture, PostgreSQL integration, authentication, and clean API design.
 
@@ -134,15 +138,8 @@ An evolving REST API focused on backend architecture, PostgreSQL integration, au
 
 <img
   width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=talha-amr&bg_color=0d1117&color=22d3ee&line=7c3aed&point=ffffff&area=true&hide_border=true"
-  alt="GitHub contribution graph"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=talha-amr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=7c3aed"
-  alt="GitHub statistics"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talha-amr&theme=github_dark"
+  alt="GitHub contribution activity"
 />
 
 </div>
@@ -161,12 +158,6 @@ An evolving REST API focused on backend architecture, PostgreSQL integration, au
   <img src="https://img.shields.io/badge/GitHub-talha--amr-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
 </a>
 
-<br/><br/>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:7C3AED&height=110&section=footer"
-  alt="Footer"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:7C3AED&height=110&section=footer" alt="Footer" />
 
 </div>
