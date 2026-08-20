@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:22D3EE&height=210&section=header&text=Muhamad%20Talha%20Amir&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Full-Stack%20Explorer&descAlignY=56&descSize=17&animation=fadeIn" alt="Muhamad Talha Amir" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:22D3EE&height=210&section=header&text=Muhammad%20Talha%20Amir&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Full-Stack%20Explorer&descAlignY=56&descSize=17&animation=fadeIn" alt="Muhamad Talha Amir" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+polished%2C+interactive+web+experiences;React+%2B+GSAP+%2B+Three.js;Turning+ideas+into+fast%2C+fluid+interfaces;Exploring+FastAPI+%2B+PostgreSQL" alt="Typing introduction" />
